@@ -10,7 +10,7 @@
 Streamlit
 
 To run the project:
-* 1.clone git@github.com:ritik3000/Protfolio_calculator.git
-* 2.pip install streamlit
-* 3.then from cli run this command "streamlit run share_changes.py"
+* clone git@github.com:ritik3000/Protfolio_calculator.git
+* pip install streamlit
+* Then from cli run this command "streamlit run share_changes.py"
 
