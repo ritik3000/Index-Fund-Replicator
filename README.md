@@ -6,7 +6,7 @@
 
 
 
-# Requirements
+Requirements
 Streamlit
 
 To run the project:
