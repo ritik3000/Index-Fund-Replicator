@@ -6,8 +6,7 @@
 
 
 
-Requirements
-Streamlit
+Requirements: Streamlit
 
 To run the project:
 * clone git@github.com:ritik3000/Protfolio_calculator.git
